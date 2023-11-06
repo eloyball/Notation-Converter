@@ -1,0 +1,2 @@
+# Notation-Converter
+This GitHub repository hosts a C++ project aimed at implementing a Deque (Double-Ended Queue) and utilizing it to create a versatile mathematical notation converter. The project supports three common notations: Postfix (Reverse Polish), Infix (standard notation), and Prefix (Polish). The converter can seamlessly transform expressions from one notation to another, with input strings containing standard arithmetic operators, operands denoted by letters, and round parentheses (only in infix expressions).
